@@ -1,0 +1,37 @@
+Task 1
+======
+
+URL of successful "hello" pipeline: 
+https://mit.cs.uchicago.edu/cmsc22000-spr-19/sshatzkin/pipelines/15501
+
+URL of failed "hello" pipeline:
+https://mit.cs.uchicago.edu/cmsc22000-spr-19/sshatzkin/pipelines/15507
+
+URL of successful "libgeometry" pipeline:
+https://mit.cs.uchicago.edu/cmsc22000-spr-19/sshatzkin/pipelines/15514
+
+Task 2
+======
+
+URL of succesful "hello" pipeline:
+https://mit.cs.uchicago.edu/cmsc22000-spr-19/sshatzkin/pipelines/15518
+
+URL of "hello" pipeline with failed test job:
+https://mit.cs.uchicago.edu/cmsc22000-spr-19/sshatzkin/pipelines/15528
+
+URL of succesful "libgeometry" pipeline (including tests):
+https://mit.cs.uchicago.edu/cmsc22000-spr-19/sshatzkin/pipelines/15543
+
+Task 3
+======
+
+URL of succesful "hello" pipeline:
+https://mit.cs.uchicago.edu/cmsc22000-spr-19/sshatzkin/pipelines/15778
+
+URL of succesful "libgeometry" pipeline:
+https://mit.cs.uchicago.edu/cmsc22000-spr-19/sshatzkin/pipelines/15780
+
+Task 4
+======
+
+### Enter your answers to the Task 4 questions here ###
