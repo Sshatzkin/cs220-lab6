@@ -34,4 +34,4 @@ https://mit.cs.uchicago.edu/cmsc22000-spr-19/sshatzkin/pipelines/15780
 Task 4
 ======
 
-### Enter your answers to the Task 4 questions here ###
+### Eter your answers to the Task 4 questions here ###
