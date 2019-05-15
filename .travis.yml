@@ -8,4 +8,4 @@ language: c
 compiler: gcc
 
 script:
-  - make -C
+  - make -C lab6/hello
